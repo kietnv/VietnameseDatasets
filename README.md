@@ -18,6 +18,8 @@ Abstract: Large-scale and high-quality corpora are really necessary for evaluati
 
 Paper: Kiet Van Nguyen, Duc-Vu Nguyen, Anh Gia-Tuan Nguyen, Ngan Luu-Thuy Nguyen. New Vietnamese Corpus for Machine ReadingComprehension of Health News Articles.
 
+Please contact us via email: kietnv@uit.edu.vn (Mr. Kiet Nguyen) to sign the corpus user agreement and then receive the corpus.
+
 
 # ViMMRC (version 1.0) - Vietnamese Multiple-choice Machine Reading Comprehension Corpus
 
@@ -41,6 +43,8 @@ Please contact us via email: kietnv@uit.edu.vn (Mr. Kiet Nguyen) to sign the cor
 Abstract: Emotion recognition is a higher approach or special case of sentiment analysis. In this task, the result is not produced in terms of either polarity: positive or negative or in the form of rating (from 1 to 5) but of a more detailed level of sentiment analysis in which the result are depicted in more expressions like sadness, enjoyment, anger, disgust, fear and surprise. Emotion recognition plays a critical role in measuring brand value of a product by recognizing specific emotions of customers’ comments. In this study, we have achieved two targets. First and foremost, we built a standard Vietnamese Social Media Emotion Corpus (UIT-VSMEC) with about 6,927 human-annotated sentences with six emotion labels, contributing to emotion recognition research in Vietnamese which is a low-resource language in Natural Language Processing (NLP). Secondly, we assessed and measured machine learning and deep neural network models on our UIT-VSMEC. As a result, Convolutional Neural Network (CNN) model achieved the highest performance with 57.61% of F1-score.
 
 Paper: Vong Ho, Duong Nguyen, Danh Nguyen, Linh Pham, Kiet Nguyen and Ngan Nguyen, Emotion Recognition for Vietnamese Social Media Text, 2019 16th International Conference of the Pacific Association for Computational Linguistics (PACLING 2019), October 11-13, 2019, Ha Noi, Vietnam.  
+
+Please contact us via email: kietnv@uit.edu.vn (Mr. Kiet Nguyen) to sign the corpus user agreement and then receive the corpus.
 
 
 # UIT-ViIC (version 1.0) - Vietnamese Image Captioning Dataset
@@ -66,5 +70,3 @@ Customer product reviews play a role in improving the quality of products and se
 Paper: Nhung Thi-Hong Nguyen, Phuong Ha-Dieu Phan, Luan Thanh Nguyen, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen. Vietnamese Open-domain Complaint Detection in E-Commerce Websites. Link.
 
 Please contact us via email: 18521218@gm.uit.edu.vn (Ms. Nhung) to sign the corpus user agreement and then receive the corpus
-
-
