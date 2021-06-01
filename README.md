@@ -69,4 +69,12 @@ Customer product reviews play a role in improving the quality of products and se
 
 Paper: Nhung Thi-Hong Nguyen, Phuong Ha-Dieu Phan, Luan Thanh Nguyen, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen. Vietnamese Open-domain Complaint Detection in E-Commerce Websites. Link.
 
-Please contact us via email: 18521218@gm.uit.edu.vn (Ms. Nhung) to sign the corpus user agreement and then receive the corpus
+Please contact us via email: 18521218@gm.uit.edu.vn (Ms. Nhung) to sign the corpus user agreement and then receive the corpus.
+
+# UIT-ViSFD: A Vietnamese Smartphone Feedback Dataset for Aspect-Based Sentiment Analysis 
+
+In this paper, we present a process of building a social listening system based on aspect-based sentiment analysis in Vietnamese from creating a dataset to building a real application. Firstly, we create UIT-ViSFD, a Vietnamese Smartphone Feedback Dataset as a new benchmark corpus built based on strict annotation schemes for evaluating aspect-based sentiment analysis, consisting of 11,122 human-annotated comments for mobile e-commerce, which is freely available for research purposes. We also present a proposed approach based on the Bi-LSTM architecture with the fastText word embeddings for the Vietnamese aspect-based sentiment task. Our experiments show that our approach achieves the best performances with the F1-score of 84.48% for the aspect task and 63.06% for the sentiment task, which performs several conventional machine learning and deep learning systems. Last but not least, we build SA2SL, a social listening system based on the best performance model on our dataset, which will inspire more social listening systems in future
+
+Paper: Luong Luc Phan, Phuc Huynh Pham, Kim Thi-Thanh Nguyen, Tham Thi Nguyen, Sieu Khai Huynh, Luan Thanh Nguyen, Tin Van Huynh, Kiet Van Nguyen. SA2SL: From Aspect-Based Sentiment Analysis to Social Listening System for Business Intelligence. Link.
+
+Please contact us via email: kietnv@uit.edu.vn (Mr. Kiet Nguyen) to sign the corpus user agreement and then receive the corpus.
