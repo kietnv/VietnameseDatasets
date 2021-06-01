@@ -20,7 +20,6 @@ Paper: Kiet Van Nguyen, Duc-Vu Nguyen, Anh Gia-Tuan Nguyen, Ngan Luu-Thuy Nguyen
 
 Please contact us via email: kietnv@uit.edu.vn (Mr. Kiet Nguyen) to sign the corpus user agreement and then receive the corpus.
 
-
 # ViMMRC (version 1.0) - Vietnamese Multiple-choice Machine Reading Comprehension Corpus
 
 Abstract: Machine Reading Comprehension (MRC) is the task of natural language processing that studies the ability to read and understand unstructured texts and then find the correct answers for questions. Until now, we have not yet had any MRC dataset for such a low-resource language as Vietnamese. In this paper, we introduce ViMMRC, a challenging machine comprehension corpus with multiple-choice questions, intended for research on the machine comprehension of Vietnamese text. This corpus includes 2,783 multiple-choice questions and answers based on a set of 417 Vietnamese texts used for teaching reading comprehension for 1st to 5th graders. Answers may be extracted from the contents of single or multiple sentences in the corresponding reading text. A thorough analysis of the corpus and experimental results in this paper illustrate that our corpus ViMMRC demands reasoning abilities beyond simple word matching. We proposed the method of Boosted Sliding Window (BSW) that improves 5.51% in accuracy over the best baseline method. We also measured human performance on the corpus and compared it to our MRC models. The performance gap between humans and our best experimental model indicates that significant progress can be made on Vietnamese machine reading comprehension in further research. The corpus is freely available at our website for research purposes.
@@ -60,6 +59,7 @@ Please contact us via email: kietnv@uit.edu.vn (Mr. Kiet Nguyen) to sign the cor
 # UIT-ViNames (version 1.0) - Vietnamese Name Dataset
 
 Abstract: As biological gender is one of the aspects of presenting individual human, much work has been done on gender classification based on people names. The proposal for English and Chinese languages are tremendous; still, there has been few works done for Vietnamese so far. We propose a new dataset for gender prediction based on Vietnamese names. This dataset comprises over 26,000 full names annotated with genders. This dataset is available on our website for research purposes. In addition, this paper describes six machine learning algorithms (Support Vector Machine, Multinomial Naive Bayes, Bernoulli Naive Bayes, Decision Tree, Random Forrest and Logistic Regression) and a deep learning model (LSTM) with fastText word embedding for gender prediction on Vietnamese names. We create a dataset and investigate the impact of each name component on detecting gender. As a result, the best F1-score that we have achieved is up to 96% on LSTM model and we generate a web API based on our trained model.
+
 Paper: Huy Quoc To, Kiet Van Nguyen, Ngan Luu-Thuy Nguyen, and Anh Gia-Tuan Nguyen. Gender Prediction Based on Vietnamese Names with Machine Learning Techniques.
 
 Please contact us via email: huytq@uit.edu.vn (Mr. Huy To) to sign the corpus user agreement and then receive the corpus.
