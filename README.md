@@ -79,3 +79,11 @@ In this paper, we present a process of building a social listening system based 
 Paper: Luong Luc Phan, Phuc Huynh Pham, Kim Thi-Thanh Nguyen, Tham Thi Nguyen, Sieu Khai Huynh, Luan Thanh Nguyen, Tin Van Huynh, Kiet Van Nguyen. SA2SL: From Aspect-Based Sentiment Analysis to Social Listening System for Business Intelligence. Link.
 
 Please contact us via email: kietnv@uit.edu.vn (Mr. Kiet Nguyen) to sign the corpus user agreement and then receive the corpus.
+
+# UIT-ViCoQA: A Conversational Question Answering Challenge for Healthcare Texts in Vietnamese 
+
+Machine reading comprehension (MRC) is a sub-field in natural language processing or computational linguistics. MRC aims to help computers understand unstructured texts and then answer questions related to them. In this paper, we present a new Vietnamese dataset for conversational machine reading comprehension, consisting of 10,000 questions with answers over 2,000 conversations about health news articles. We analyze UIT-ViCoQA in-depth with different linguistic aspects. We evaluate strong dialogue and reading comprehension models on UIT-ViCoQA. In addition, we conduct the first experiments on this dataset and achieve positive performances. The best system obtains an F1 score of 51,28%, which is 24.90 points behind human performance (76,18%), indicating that there is ample room for improvement. The dataset is available at our research website for research purposes.
+
+Paper: Son T. Luu, Mao Nguyen Bui, Loi Duc Nguyen, Khiem Vinh Tran, Kiet Van Nguyen (Corresponding Author), Ngan Luu-Thuy Nguyen. Conversational Machine Reading Comprehension for Vietnamese Healthcare Texts. Link.
+
+To access this dataset, please complete and sign the dataset user agreement and then send it via email: kietnv@uit.edu.vn (Mr. Kiet Nguyen) to receive the dataset.
