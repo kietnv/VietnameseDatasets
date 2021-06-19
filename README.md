@@ -1,4 +1,4 @@
-# Vietnamese Benchmark Datasets
+# Vietnamese Datasets
 
 Keywords: Vietnamese datasets, Vietnamese corpora, Vietnamese corpus, Vietnamese resources.
 
